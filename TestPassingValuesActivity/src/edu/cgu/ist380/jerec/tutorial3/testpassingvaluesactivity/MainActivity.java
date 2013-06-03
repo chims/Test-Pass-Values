@@ -10,7 +10,7 @@ import android.widget.Button;
 import android.widget.EditText;
 
 public class MainActivity extends Activity {
-	   /** Called when the activity is first created. */
+	   /** Called when the activity is first created. - Chims */
 	   private EditText mNameText;
 	    private EditText mEmailText;
 	    private EditText mAgeText;
